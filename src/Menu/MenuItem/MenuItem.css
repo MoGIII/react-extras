@@ -1,0 +1,22 @@
+.MenuItem {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.MenuItem a{
+    color: #000;
+    font-weight: bold;
+    border: 1px solid #555;
+    border-radius: 5px;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.MenuItem a:hover{
+    color: #aaa;
+    font-weight: bold;
+    border: 1px solid #555;
+    border-radius: 5px;
+    padding: 8px;
+    text-decoration: none;
+}
